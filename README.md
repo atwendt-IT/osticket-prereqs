@@ -52,5 +52,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <h2>Associated Projects</h2>
 
-[osTicket - Post Installation Configuration](https://github.com/atwendt-IT/post-install-config)
-[osTicket - Ticket Lifecycle](https://github.com/atwendt-IT/ticket-lifecycle)
+- [osTicket - Post Installation Configuration](https://github.com/atwendt-IT/post-install-config)
+- [osTicket - Ticket Lifecycle](https://github.com/atwendt-IT/ticket-lifecycle)
